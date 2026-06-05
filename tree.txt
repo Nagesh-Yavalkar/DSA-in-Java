@@ -1,0 +1,75 @@
+Most Important Tree Topics for Companies
+
+These are the topics most asked in startups + service companies + MNCs like Capgemini, Infosys, TCS, Wipro, Accenture, Amazon, Microsoft.
+
+Must Do Topics (Very Important)
+Binary Tree Basics
+Tree Terminology
+Binary Tree Traversals
+Preorder Traversal
+Inorder Traversal
+Postorder Traversal
+Level Order Traversal
+Height of Binary Tree
+Count Nodes in Tree
+Sum of Nodes
+Diameter of Binary Tree
+Check Balanced Binary Tree
+Left View of Tree
+Right View of Tree
+Lowest Common Ancestor (LCA)
+Mirror Tree
+Identical Trees
+Symmetric Tree
+BST Topics (VERY IMPORTANT)
+Binary Search Tree Basics
+Insert in BST
+Delete in BST
+Search in BST
+Minimum & Maximum in BST
+Validate BST
+Kth Smallest Element
+Inorder Successor
+Inorder Predecessor
+Heap Topics (Important for OA & Interviews)
+Heap Introduction
+Max Heap
+Min Heap
+Heapify
+Insert in Heap
+Delete in Heap
+Heap Sort
+Priority Queue
+Startup / Product Company Important Topics
+Trie
+Segment Tree
+Serialization & Deserialization
+Vertical Order Traversal
+Zigzag Traversal
+Maximum Path Sum
+BST Iterator
+Morris Traversal
+Preparation Priority
+First Complete These
+Traversals
+Height
+Diameter
+BST
+LCA
+Heap
+Then Do
+Trie
+Segment Tree
+Advanced Traversals
+Most Repeated Questions in Interviews
+
+⭐ Height of Tree
+⭐ Diameter of Tree
+⭐ Check BST
+⭐ Level Order Traversal
+⭐ Insert/Delete in BST
+⭐ Lowest Common Ancestor
+⭐ Balanced Tree
+⭐ Heap Sort
+⭐ Kth Smallest Element
+⭐ Trie Implementation                                          

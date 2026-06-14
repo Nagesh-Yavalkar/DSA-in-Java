@@ -111,6 +111,14 @@ class Binary{
         return leftcount+rightcount+root.data;
 
     }
+    int height(Node root){
+        if(root==null){
+            return 0;
+        }
+        int lh = height(root.left);
+        int rh = height(root.right);
+        return Math.max(lh,rh)+1;
+    }
     
 
 }
@@ -139,6 +147,9 @@ class client{
         
 
         System.out.println("the sum of Node is : "+sum);
+        int height = bt.height(root);
+
+        System.err.println("height of the tree : "+height);
         
     }
 }
